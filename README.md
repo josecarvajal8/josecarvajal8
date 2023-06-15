@@ -1,4 +1,4 @@
-# <p align="center">Hi there 👋, I'm Jose Carvajal</p>
+## <p align="center">Hi there 👋, I'm Jose Carvajal</p>
 
 ### <p align="center"> Software Engineer | Problem Solver | Passionate Learner | Music Lover </p>
 
